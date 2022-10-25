@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gun_Point
+  - Walls
+  - bulletExplode
+  - particle_spwner
+  - crate
+  - player
+  - glock
+  - ak47
+  - sniper
+  - minigun
+  - enemy
+  - bullettimepu
+  - ammo
+  - timerCan
+  - timerSlider
+  - health
+  - barrel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 502682729
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

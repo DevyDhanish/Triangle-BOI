@@ -1,0 +1,9 @@
+Current Game version :- Pre Build V1
+Game engine version : Unity 2019.4
+
+How to play
+- Break Crate to get a random Weapon
+- Press Q to change weapon
+- W,A,S,D to move
+- Player automatically Looks at mouse position
+- Space to Shoot
