@@ -1,6 +1,7 @@
 # Triangle-BOI 🔫
 
-Top down shooter, survive your way through endless enemies with guns
+Top down shooter, survive your way through endless enemies with guns<br/>
+a minimalist arcade-style game where you control a triangle on a mission to shoot down incoming squares! The objective is simple: survive as long as you can while taking out as many squares as possible.
 
 <h1>Software used</h1>
 <p align="left"> <img src="https://img.shields.io/badge/Game%20Engine-Unity%203d-red" alt="vscode" /> </p>
