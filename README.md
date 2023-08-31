@@ -1,6 +1,6 @@
 # [Triangle-BOI 🔫]
 
-![thegif]["triangle-boi.gif"]
+![thegif](./triangle-boi.gif)
 
 Top down shooter, survive your way through endless enemies with guns<br/>
 a minimalist arcade-style game where you control a triangle on a mission to shoot down incoming squares! The objective is simple: survive as long as you can while taking out as many squares as possible.
